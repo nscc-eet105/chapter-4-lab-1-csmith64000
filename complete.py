@@ -1,3 +1,8 @@
+            
+print("Chris smith")
+print("Chapter 4 Lab 1")
+print("06/23/25")
+
 #void
 def convert_and_print_to_fahrenheit(celsius_temp):
     fahrenheit=(celsius_temp * 9/5)+32
@@ -30,5 +35,3 @@ def main():
             print("Invalid scale. Please enter 'C' for Celsius or 'F' for Fahrenheit.")
 
 main()
-
-            
