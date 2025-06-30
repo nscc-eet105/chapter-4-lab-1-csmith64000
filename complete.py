@@ -1,9 +1,9 @@
             
-print("Chris smith")
-print("Chapter 4 Lab 1")
-print("06/23/25")
+#Chris smith
+#Chapter 4 Lab 1
+#06/23/25
 
-#void
+#print
 def convert_and_print_to_fahrenheit(celsius_temp):
     fahrenheit=(celsius_temp * 9/5)+32
     print(f"{celsius_temp:.2f}°C is equal to {fahrenheit:.2f}°F")
